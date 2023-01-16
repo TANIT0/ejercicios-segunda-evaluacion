@@ -1,0 +1,8 @@
+ // Crea una lista de números impares del 1 al 19 utilizando un bucle for//
+  var numeros=[]
+ for(var i=1; i<=19; i++){
+    numeros.push(i)
+    i=i+1
+ }
+ 
+ console.log("listas de numeros:"+ numeros);
