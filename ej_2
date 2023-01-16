@@ -1,8 +1,8 @@
- // Crea una lista de números pares del 2 al 20 utilizando un bucle while//
+ // crea una lista de numeros pares del 2 al 20//
 var numeros =[];
  var i=2
  while(i<=20){
     numeros.push(i) ;
-    i=i+1
+    i=i+2
  }
  console.log("listas de numeros:"+ numeros);
