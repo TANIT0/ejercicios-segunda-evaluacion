@@ -1,0 +1,3 @@
+// Crea una lista de comida//
+  var comida="pollo,sandia,puchero,cocido,colacao"
+     console.log("listas de numeros:"+ comida);
