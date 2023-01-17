@@ -1,0 +1,7 @@
+ // Accede al segundo elemento de la lista de comida y cambia su valor por otro diferente.
+
+var comida=["pollo","sandia","puchero","cocido","colacao"];
+
+comida[1]= "gambas"
+    console.log(comida);
+    
