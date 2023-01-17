@@ -1,5 +1,5 @@
 // Agrega un elemento al principio de la lista de comida que creaste en el ejercicio anterior//
-console.log("listas de numeros:"+ numeros);
+
     
     var comida=["pollo","sandia","puchero","cocido","colacao"];
         comida.unshift ("albaricoque");
