@@ -1,0 +1,8 @@
+  // Recorre la lista de comida utilizando un bucle while y muestra cada elemento en la consola
+ 
+ 
+ var comida=["pollo","sandia","puchero","cocido","colacao"];
+  var i=0;
+    while (i< comida.length){
+     console.log(comida[i])
+    i =i+1}
